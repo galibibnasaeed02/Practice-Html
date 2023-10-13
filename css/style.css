@@ -1,0 +1,31 @@
+h1{
+    color: coral;
+    background-color: gray;
+    text-align: center; 
+    
+}
+
+h2 {
+
+     color : saddlebrown;
+     
+    }
+
+h3{
+     color : greenyellow;
+     text-align: center;
+     border: 2px solid black; 
+}
+
+body{
+     background-color : skyblue; 
+}
+
+p{
+     font-family: verdana;
+  font-size: 200%;
+
+}
+p2{
+     font-size: 130%;
+}
